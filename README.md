@@ -43,3 +43,4 @@ Este é um projeto acadêmico desenvolvido com **Python** e a biblioteca **Flet*
 ### 3. Execute a aplicação:
 ```bash
   python loja_esportes
+```
