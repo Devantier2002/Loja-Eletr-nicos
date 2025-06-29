@@ -33,8 +33,9 @@ Este é um projeto acadêmico desenvolvido com **Python** e a biblioteca **Flet*
 ## 🛠️ Como Executar
 
 1. Instale as dependências:
-   ```bash
-   pip install flet requests
+  ```bash
+  pip install flet requests
+```
 2. Suba o servidor fake com o JSON:
   ```bash
   json server --watch db.json --port 3000
