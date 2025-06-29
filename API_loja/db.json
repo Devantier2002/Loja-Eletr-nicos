@@ -1,0 +1,60 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Notebook",
+      "marca": "Dell",
+      "categoria": "Informática",
+      "quant": 5,
+      "preco": 4500
+    },
+    {
+      "id": "2",
+      "nome": "Mouse",
+      "marca": "Logitech",
+      "categoria": "Acessórios",
+      "quant": 10,
+      "preco": 150.5
+    },
+    {
+      "id": "7686",
+      "nome": "PC Gamer",
+      "marca": "Asus",
+      "categoria": "Computador",
+      "quant": 2,
+      "preco": 4999.9
+    },
+    {
+      "id": "bc4d",
+      "nome": "PC Gamer",
+      "marca": "Pichau",
+      "categoria": "Computador",
+      "quant": 5,
+      "preco": 3999.9
+    },
+    {
+      "id": "100e",
+      "nome": "Notebook Gamer",
+      "marca": "Acer",
+      "categoria": "Notebook",
+      "quant": 3,
+      "preco": 3500
+    },
+    {
+      "id": "298e",
+      "nome": "Mouse",
+      "marca": "Razer",
+      "categoria": "Acessórios",
+      "quant": 2,
+      "preco": 300
+    },
+    {
+      "id": "56c3",
+      "nome": "Fone de Ouvido",
+      "marca": "Logitech",
+      "categoria": "Acessórios",
+      "quant": 4,
+      "preco": 999.99
+    }
+  ]
+}
